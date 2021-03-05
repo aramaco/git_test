@@ -1,0 +1,1 @@
+This is amp's first git project.
